@@ -1,0 +1,21 @@
+.fav-box {
+  align-items: center;
+  background-color: #16161a;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.fav-box h3 {
+  color: #fffffe;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.favorites {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}

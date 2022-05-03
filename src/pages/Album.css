@@ -1,0 +1,36 @@
+.music-main {
+  background-color: #16161a;
+  box-sizing: border-box;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  width: 100%;
+}
+
+.music-box {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  margin: 50px 0;
+}
+
+.info-box {
+  align-items: center;
+  align-self: start;
+  border: 2px solid #2cb67d;
+  border-radius: 15px;
+  color: #fffffe;
+  display: flex;
+  flex-direction: column;
+  margin: 0 20px;
+  padding: 20px;
+}
+
+.info-box img {
+  width: 60%;
+}
+
+.info-box h3, .info-box h2 {
+  margin: 5px 0;
+  text-align: center;
+}

@@ -1,0 +1,54 @@
+.tracks-box {
+  align-items: center;
+  color: #fffffe;
+  display: flex;
+  flex-direction: column;
+  margin: 0 20px;
+  padding: 0;
+  width: 50%;
+}
+
+.tracks {
+  align-items: center;
+  border: 2px solid #2cb67d;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  margin-bottom: 10px;
+  padding: 10px 0;
+  width: 100%;
+}
+
+.track-info {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+}
+
+.track-info p {
+  font-weight: 600;
+  margin: 5px 0;
+}
+
+.track-info label {
+  text-align: right;
+  width: 40%;
+}
+
+.tracks audio {
+  width: 90%;
+}
+
+.tracks audio::-webkit-media-controls-play-button {
+  background-color: #7f5af0;
+  border-radius: 50%;
+  margin: 0 5px;
+}
+
+.tracks audio::-webkit-media-controls-mute-button {
+  background-color: #7f5af0;
+  border-radius: 50%;
+  margin: 0 5px;
+}

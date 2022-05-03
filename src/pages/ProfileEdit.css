@@ -1,0 +1,32 @@
+.edit-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.edit-container h3 {
+  color: #fffffe;
+}
+
+.edit-form {
+  align-items: center;
+  background-color: #fffffe;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.edit-form p {
+  margin: 0;
+  margin-top: 10px;
+}
+
+.edit-form textarea {
+  height: 50px;
+}
+
+.edit-form button {
+  margin-top: 10px;
+  padding: 10px 15px;
+}

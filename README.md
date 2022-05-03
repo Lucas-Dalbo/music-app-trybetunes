@@ -9,9 +9,9 @@ All the code was made using React.
 ## In this App you can:
   -  In the Login page, you must type your name to gain access;
   -  In the Search page, you can search for any artist you want;
-  -  Clicking on the any card that appers, will redirect you to a Almbum page, with a preview of the songs, you can also add then to your favorites list;
+  -  Clicking on any card that appers, will redirect you to an Album page, with a preview of the songs, you can also add then to your favorites list;
   -  In the Favorites page, you can see all you favotite songs and remove then;
-  -  In the Profile page, you can see and go to the Profile Edit page, editing you name, email, picture and description;
+  -  In the Profile page, you can see your profile and go to the Profile Edit page, where you can edit your name, email, picture and description;
 
 ---
 

@@ -1,7 +1,7 @@
 # Music App - Trybetunes
 
 ## What is this project?
-TubeTunes is a project made as a student of the Trybe Web Development School, in here you can see all the code I did to achieve 100% approval!
+TubeTunes is a project that I made as a student of the Trybe Web Development School, in here you can see all the code I did to achieve 100% approval!
 All the code was made using React.
 
 ---

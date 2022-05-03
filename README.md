@@ -17,7 +17,6 @@ All the code was made using React.
 
 ## Note
 At this point of the course, the classes of React Testing Library and Fetch Simulators still haven't been teached, so the whole treatment of API requests and tests were pre-developed by Trybe's team.
-Thats why the API treatment it's not present here.
 
 ---
 

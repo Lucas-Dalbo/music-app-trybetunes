@@ -31,7 +31,7 @@ For installation and more information [click here](https://github.com/betrybe/es
 ## Preview
 | Login | Search | Album |
 | --- | --- | --- |
-| <img src="./images/01-login.png" width="300" height="180"> | <img src="./images/02-pesquisa.png" width="300" height="180"> | <img src="./images/03-album.png" width="300" height="180"> |
+| <img src="./images/01-login.png" width="350" height="200"> | <img src="./images/02-pesquisa.png" width="300" height="180"> | <img src="./images/03-album.png" width="300" height="180"> |
 
 | Favorites | Profile | Profile Edit |
 | --- | --- | --- |
